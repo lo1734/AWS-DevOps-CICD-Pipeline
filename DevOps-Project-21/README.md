@@ -178,7 +178,7 @@ git clone <SSH URL>
 
 # **DockerHub Repository**
 
-#![](https://miro.medium.com/v2/resize:fit:802/1*YMxMt339Ovym9DYCTbV88w.png)
+#![](https://miro.medium.com/v2/resize:fit:802/1*YMxMt339Ovym9DYCTbV88w.pngjj)
 
 * Just for Test
 
