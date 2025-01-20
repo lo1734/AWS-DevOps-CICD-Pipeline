@@ -23,7 +23,7 @@ In This Project, we are Developing and Deploying a video streaming application o
 Clone this Repository
 
 ```elixir
-git clone https://github.com/NotHarshhaa/DevOps-Projects.git
+git clone https://github.com/lo1734/AWS-DevOps-CICD-Pipeline.git
 ```
 
 # **Project Architecture**
